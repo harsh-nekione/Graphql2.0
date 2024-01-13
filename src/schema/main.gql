@@ -18,6 +18,7 @@ type Query {
 	myDate: Date
 }
 
-type User {
-	man: String
-}
+# type User {
+# 	man: String
+# }
+
